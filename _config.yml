@@ -65,7 +65,7 @@ analytics:
 # Site Author
 author:
   name             : "Nicholas A. Syring"
-  avatar           : "syring_nick.jpg"
+  avatar           : syring_nick.jpg
   bio              : "Assistant Professor, Statistics"
   location         : "Ames, IA"
   employer         : "Iowa State University"
