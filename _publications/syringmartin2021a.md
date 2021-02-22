@@ -9,5 +9,3 @@ citation: 'Syring, N. and Martin, R. (2020). &quot;Gibbs posterior concentration
 ---
 
 [Download paper here](https://arxiv.org/pdf/2012.04505.pdf)
-
-Recommended citation: Syring, N. and Martin, R. (2020). "Gibbs posterior concentration rates under sub-exponential type losses" <i>Unpublished manuscript</i>. https://arxiv.org/abs/2012.04505.
