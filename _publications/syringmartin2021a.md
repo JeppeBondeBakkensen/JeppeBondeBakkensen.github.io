@@ -1,6 +1,6 @@
 ---
 title: "Gibbs posterior concentration rates under sub-exponential type losses"
-collection: publications
+collection: submitted manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'What are the sufficient conditions under which a Gibbs posterior distribution concentrates at the true parameter value?  How do properties of the loss function and prior distribution affect concentration?  Answers to these questions and more within...'
 date: 2020-12-24
