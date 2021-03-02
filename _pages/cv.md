@@ -6,13 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-
 Education
 ======
-* **B.S. Actuarial Science**, Illinois State University, *2009
-* **M.S. Statistics**, Northern Illinois University, *2013
-* **Ph.D Mathematics**, University of Illinois Chicago, *2017
+* **B.S. Actuarial Science**, Illinois State University, *2009*
+* **M.S. Statistics**, Northern Illinois University, *2013*
+* **Ph.D Mathematics**, University of Illinois Chicago, *2017*
 
 Work experience
 ======
