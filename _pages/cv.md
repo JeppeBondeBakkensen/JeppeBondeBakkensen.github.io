@@ -7,53 +7,36 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Actuarial Science, Illinois State University, 2009
+* M.S. Statistics, Northern Illinois University, 2013
+* Ph.D Mathematics, University of Illinois Chicago, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor
+  * Department of Statistics
+  * Iowa State University
+  * 2020 -- Now
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Postdoctoral Lecturer in Statistics
+  * Department of Mathematics and Statistics
+  * Washington University in St. Louis
+  * 2018 -- 2020
 
-Publications
+* Data Scientist
+  * Allstate Insurance Company
+  * Chicago, IL
+  * 2017 -- 2018
+
+* Actuary
+  * State Farm Insurance Company
+  * Bloomington, IL
+  * 2009 -- 2011
+    
+Service
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Journal referree for several publications including JRSS, Sankhya, Statistics Sinica, Bayesian Analysis, Technometrics
+* Volunteer with [Science Bound](https://www.sciencebound.iastate.edu/) encouraging young Iowans to study science and mathematics
