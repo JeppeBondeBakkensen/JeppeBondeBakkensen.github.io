@@ -7,8 +7,8 @@ author_profile: true
 
 
 ### Submitted
-* N. Syring and R. Martin. Stochastic optimization for numerical evaluation of imprecise probabilities.
-* N. Syring and R. Martin. Gibbs posterior concentration rates under sub-exponential type losses. [arXiv](https://arxiv.org/abs/2012.04505)
+* N. Syring and R. Martin. Stochastic optimization for numerical evaluation of imprecise probabilities. (2021)
+* N. Syring and R. Martin. Gibbs posterior concentration rates under sub-exponential type losses. (2020)   [arXiv](https://arxiv.org/abs/2012.04505)
 
 ### Published or Accepted
 * N. Syring and R. Martin. Robust and Rate-Optimal Gibbs Posterior Inference on the Boundary of a Noisy Image. **Annals of Statistics**. Volume 48, Number 3 (2020), 1498-1513.  [Journal Link](https://doi.org/10.1214/19-AOS1856)   [arXiv](https://arxiv.org/abs/1606.08400) 
