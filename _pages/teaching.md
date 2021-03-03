@@ -13,4 +13,4 @@ author_profile: true
 ### Washington University in St. Louis
 * MATH 3200 Elementary to Intermediate Statistics, 5 times
 * MATH 475 Statistical Computation, 1 time
-* MAth 494 Mathematical Statistics, 1 time
+* MATH 494 Mathematical Statistics, 1 time
