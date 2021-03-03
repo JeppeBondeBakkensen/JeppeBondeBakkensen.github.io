@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Syring - IAState STATS"
+title                    : IASTATE_center_blk.PNG
 title_separator          : "-"
 name                     : &name "Nicholas A. Syring"
 description              : &description "Assistant Professor"
