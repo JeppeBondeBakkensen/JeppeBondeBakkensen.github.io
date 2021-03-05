@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### Submitted
-* N. Syring and R. Martin. Stochastic optimization for numerical evaluation of imprecise probabilities. (2021)
+* N. Syring and R. Martin. Stochastic optimization for numerical evaluation of imprecise probabilities. (2021)  [arXiv](https://arxiv.org/abs/2103.02659)
 * N. Syring and R. Martin. Gibbs posterior concentration rates under sub-exponential type losses. (2020)   [arXiv](https://arxiv.org/abs/2012.04505)
 
 ### Published or Accepted
