@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+Find a downloadable .pdf CV [here](CV.pdf) 
+
 ### Education
 
 * **B.S. Actuarial Science**, Illinois State University, *2009*
