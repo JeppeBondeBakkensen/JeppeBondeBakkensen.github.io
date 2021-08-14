@@ -4,7 +4,9 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-
+* ISIPTA 2021 Contributed Talk\
+  Stochastic optimization for numerical evaluation of imprecise probabilities\
+  July 2021
 * SIAM CSE21 Invited Talk\
   Frequentist calibration of posterior distributions\
   March 2021
