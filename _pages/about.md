@@ -12,4 +12,9 @@ Hi! I'm Dr. Syring and I'm an Assistant Professor in the Department of Statistic
 
 News
 ------
-Check out the SIAM Conference on [Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse21) March 1-5, 2021.  I'll be giving a talk on Gibbs posterior distributions.
+
+Revised versions of two manuscripts are available on the arViv: one concerning a [Gibbs posterior for medical diagnosis](https://arxiv.org/abs/2108.04898) and another on [asymptotic concentration of Gibbs posteriors](https://arxiv.org/abs/2012.04505). 
+
+Check out [SIPTA](https://www.sipta.org/), the Society for Imprecise Probabilities Theory and Applications.  I gave a talk at their bi-annual meeting, [ISIPTA](https://leo.ugr.es/isipta21/), on July 6th.  I shared [joint work](https://leo.ugr.es/isipta21/pmlr/syring21.pdf) with Ryan Martin on an algorithm for computing upper and lower probabilities with applications in statistical inference.
+
+
