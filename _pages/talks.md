@@ -4,6 +4,13 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+* Conference on Applied Statistics in Agriculture and Natural Resources, Contributed Talk\
+  Valid predictions of group-level random effects\
+  May 2022, Utah State University
+* CMStatistics 2021, Invited Talk\
+  Asymptotic concentration of Gibbs posterior distributions\
+  December 2021, London/remote
 * ISIPTA 2021 Contributed Talk\
   Stochastic optimization for numerical evaluation of imprecise probabilities\
   July 2021
