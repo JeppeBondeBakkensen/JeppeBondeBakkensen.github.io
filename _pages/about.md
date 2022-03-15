@@ -13,8 +13,8 @@ Hi! I'm Dr. Syring and I'm an Assistant Professor in the Department of Statistic
 News
 ------
 
-Revised versions of two manuscripts are available on the arXiv: one concerning a [Gibbs posterior for medical diagnosis](https://arxiv.org/abs/2108.04898) and another on [asymptotic concentration of Gibbs posteriors](https://arxiv.org/abs/2012.04505). 
+A revised version of "Gibbs Posterior Concentration Rates under Sub-exponential Type Losses" is available on the [arxiv](https://arxiv.org/abs/2012.04505).  It's now accepted at [Bernoulli](http://www.bernoulli-society.org/publications/bernoulli-journal/bernoulli-journal-papers).
 
-Check out [SIPTA](https://www.sipta.org/), the Society for Imprecise Probabilities Theory and Applications.  I gave a talk at their bi-annual meeting, [ISIPTA](https://leo.ugr.es/isipta21/), on July 6th.  I shared [joint work](https://leo.ugr.es/isipta21/pmlr/syring21.pdf) with Ryan Martin on an algorithm for computing upper and lower probabilities with applications in statistical inference.
+A new paper on Inferential Models and prediction---with applications to randomized, on-farm agricultural trials---is now available on the [arxiv](https://arxiv.org/abs/2202.01848).  I'm presenting this work at the [Conference on Applied Statistics in Agriculture](https://caas.usu.edu/agstats2022/contact-us) at Utah State this May.   
 
 
