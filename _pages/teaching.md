@@ -7,7 +7,7 @@ author_profile: true
 
 ## Current Courses
 * STAT 342 Introduction to the Theory of Statistics and Probability II [course site](https://nasyring.github.io/Introduction-to-Statistical-Inference/)
-* STAT 500 Applie Linear Models [course site](https://nasyring.github.io/Applied-Linear-Models/)
+* STAT 500 Applied Linear Models [course site](https://nasyring.github.io/Applied-Linear-Models/)
 
 
 
