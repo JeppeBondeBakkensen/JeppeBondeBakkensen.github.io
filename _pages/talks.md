@@ -4,7 +4,9 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-
+* ISBA World Meetings, Invited Talk\
+  Gibbs posterior distributions\
+  June 2022, Montreal
 * Conference on Applied Statistics in Agriculture and Natural Resources, Contributed Talk\
   Valid predictions of group-level random effects\
   May 2022, Utah State University
