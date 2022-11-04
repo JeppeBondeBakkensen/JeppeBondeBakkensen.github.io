@@ -6,9 +6,10 @@ author_profile: true
 ---
 
 ### Submitted
-* N. Syring, F. Miguez, and J. Niemi. Valid predictions of group-level random effects. [arxiv](https://arxiv.org/abs/2202.01848)
+* N. Syring, F. Miguez, and J. Niemi. Valid predictions of random quantities in linear mixed models. [arxiv](https://arxiv.org/abs/2202.01848)
 
 ### Published or Accepted
+* R. Martin and N. Syring. Direct Gibbs posterior inference on risk minimizers: construction, concentration, and calibration. **Handbook of Statistics** (2022). [arxiv](https://arxiv.org/abs/2203.09381) 
 * N. Syring and R. Martin. Gibbs posterior concentration rates under sub-exponential type losses. **Bernoulli** (2022). Accepted. [arxiv](https://arxiv.org/abs/2012.04505)
 * N. Syring. Robust posterior inference for Youden's index cutoff. **Communications in Statistics - Theory and Methods**. (2021). DOI: 10.1080/03610926.2021.1969409. [arXiv](https://arxiv.org/abs/2108.04898).
 * N. Syring and R. Martin. Stochastic optimization for numerical evaluation of imprecise probabilities. Proceedings of the Twelfth International Symposium on Imprecise Probabilities: Theories and Applications, in **Proceedings of Machine Learning Research**. (2021), 147:289-298.  [arXiv](https://arxiv.org/abs/2103.02659).
