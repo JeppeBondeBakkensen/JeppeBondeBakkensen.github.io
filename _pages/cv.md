@@ -17,12 +17,10 @@ Find a downloadable .pdf CV [here](CV.pdf)
 
 ### Work experience
 
-* **Assistant Professor**, Department of Statistics at Iowa State University, Ames, IA *2020 -- Now*
+* **Research Scientist/Biostatistician**, Corteva Agriscience, Johnston, IA *2023 -- Present*
+* **Assistant Professor**, Department of Statistics at Iowa State University, Ames, IA *2020 -- 2023*
 * **Postdoctoral Lecturer in Statistics**, Department of Mathematics and Statistics at Washington University in St. Louis, St. Louis, MO *2018 -- 2020*
 * **Data Scientist**, Allstate Insurance Company, Chicago, IL *2017 -- 2018*
 * **Actuary**, State Farm Insurance Company, Bloomington, IL *2009 -- 2011*
     
-### Service
 
-* Journal referee for several publications including JRSS, Sankhya, Statistics Sinica, Bayesian Analysis, Technometrics
-* Volunteer with [Science Bound](https://www.sciencebound.iastate.edu/) encouraging young Iowans to study science and mathematics
