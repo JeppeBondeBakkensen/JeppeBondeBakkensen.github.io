@@ -13,5 +13,5 @@ Hi! I'm Dr. Syring.
 News
 ------
 
-In May '23 I moved from The Department of Statistics at Iowa State University to Corteva Agriscience.
+In May '23 I moved from the Department of Statistics at Iowa State University to Corteva Agriscience.
 
